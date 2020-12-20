@@ -1,0 +1,13 @@
+.section {
+    background-color: lightgrey;
+    width: 100%;
+}
+.container{
+    padding: 130px;
+    width: 100%;
+}
+.text-style{
+    font-size:19px;
+    text-align: justify;
+    font-family: 'Brush Script MT', cursive;
+}

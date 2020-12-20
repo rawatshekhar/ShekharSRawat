@@ -1,0 +1,52 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 0px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    position: relative;
+    width:60px;
+    height:60px;
+    margin:0 10px;
+    border-radius: 50%;
+    padding: 6px;
+    box-sizing: border-box;
+    line-height: calc(60px - 12px);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.3);
+    background: #000000;
+    transition: .5s;
+    transform: translate(-50%, -50%);
+  }
+  .padd{
+      padding: 20px 30px;
+  }
+  
+  .fa:hover {
+      opacity: 1;
+      color: #000000;
+      background-color: white;
+  }
+  
+  .fa-facebook {
+    color: white;
+  }
+  
+  .fa-google {
+    color: white;
+  }
+  
+  .fa-linkedin {
+    color: white;
+  }
+  
+  .fa-github {
+    color: white;
+  }
+  
+  .fa-instagram {
+    color: white;
+  }
+  a:hover .fab {
+    color: #3f67bd;
+  }
